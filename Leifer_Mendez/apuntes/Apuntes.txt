@@ -1,0 +1,41 @@
+Video 1 ¿Que
+utilziar una pwa para los del taller que suban fotos 
+creear la aplicaion de los clientes en react native para uso de notificaciones push  en IOS
+
+
+PWA es un software que entrega a travez de la web esta destindao a funcionar en navegadores web inlcuyedo funcionalidad que permiten crear experiencias de usaurio similares a aplicaicones nativa
+Mobiel First
+
+UI/UX
+    interfaz amigable
+    experiencias similares a aplicacion nativa
+
+Services Workers
+    Notificaicones Push
+    Cache
+    Manejo de ACtuaizaciones
+    Acceeder Hardware (Limitado)
+        Camara
+        Galeria
+        Envio de notificaciones
+        Vibracion(en test)
+    Instaladr (Home SCreen)
+
+
+    LIMITES DE IOS
+    Límite de almacenamiento en caché de 50 MB
+Sin acceso a Face ID
+Sin acceso a Touch ID
+Sin acceso a Bluetooth
+Sin acceso a Siri
+No puedes enviar notificaciones push
+No puedo acceder a información privada como contactos
+Sin integración con aplicaciones sociales como Facebook
+
+crear el proyecto 
+https://www.youtube.com/watch?v=-xXfelCzAi4
+ng new portafolio2 --style scss
+
+Video 2 Instlar web como app nativa 
+
+
