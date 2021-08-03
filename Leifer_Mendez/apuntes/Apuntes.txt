@@ -35,6 +35,15 @@ Sin integración con aplicaciones sociales como Facebook
 crear el proyecto 
 https://www.youtube.com/watch?v=-xXfelCzAi4
 ng new portafolio2 --style scss
+https://iconscout.com/unicons/explore/line
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+https://fonts.google.com/specimen/IBM+Plex+Sans?query=ibm
+https://animate.style/
+https://coolors.co/palettes/trending/grey
+https://shadows.brumm.af/
+https://responsively.app/download
+https://chriscavs.github.io/t-writer-demo/
+
 
 Video 2 Instlar web como app nativa 
 

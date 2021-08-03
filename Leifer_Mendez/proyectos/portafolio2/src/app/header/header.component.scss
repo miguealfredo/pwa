@@ -1,0 +1,32 @@
+.wrapper{
+    display: flex;   
+    justify-content: space-between;
+    padding: 0 1rem;
+    align-items: center;
+    align-content: center;
+    /*background-color: red;*/
+    height: 4rem;
+    border-bottom: solid 1px #0a5a6e9b;
+    box-shadow:  0 0px 20px #3c3c3c3c;
+}
+
+.section-2{
+    .list-menu{
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        
+        display: flex;
+        .item-menu{
+            padding: 0 1rem;
+            transition: all ease 200ms;
+            &:hover{
+                opacity: 0.6;
+            }
+        }
+        .item-number{
+            color:var(--color-2);
+            padding: 0 0.5rem;
+        }
+    }
+}
